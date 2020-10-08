@@ -135,6 +135,13 @@
         "goofy"
       ],
       "id": "13"
+    },
+    {
+      "name": "test",
+      "species": "test",
+      "diet": "piscivore",
+      "personalityTraits": [],
+      "id": "14"
     }
   ]
 }
