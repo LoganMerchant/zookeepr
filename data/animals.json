@@ -126,6 +126,15 @@
         "loving"
       ],
       "id": "12"
+    },
+    {
+      "name": "Fugazi",
+      "species": "Koala Bear",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "goofy"
+      ],
+      "id": "13"
     }
   ]
 }
